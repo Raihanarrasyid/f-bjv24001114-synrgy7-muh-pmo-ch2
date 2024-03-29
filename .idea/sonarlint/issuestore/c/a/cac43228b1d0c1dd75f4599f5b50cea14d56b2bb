@@ -1,0 +1,17 @@
+
+–
+java:S1192"ZDefine a constant instead of duplicating this literal "=========================" 3 times.(Ğ—ÍèJ$761baac1-abbc-4165-ab3c-73bb1a9b0342
+V
+java:S1220""Move this file to a named package.J$399131cf-9fb3-47e1-9817-d5551a9b2145
+‰
+java:S2095!"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(èáÁÏüÿÿÿÿJ$a60960df-25c0-40fc-829f-69697d651261
+f	java:S106"+Replace this use of System.out by a logger.(Ğ—ÍèJ$aa0bf84f-b933-44dd-b714-4a51f15e61b8
+f	java:S106"+Replace this use of System.out by a logger.(ñİÃ´J$77da3223-d4bb-4716-bb50-1b6ab0554168
+f	java:S106"+Replace this use of System.out by a logger.(Ğ—ÍèJ$2a1cff14-d352-48a6-ab69-fc6457bbb424
+k	java:S106"+Replace this use of System.out by a logger.(²ĞÑÆøÿÿÿÿJ$02639f16-92a3-49ab-b655-10c7d0ee04bc
+f	java:S106"+Replace this use of System.out by a logger.(ğ¡ıúJ$f9628bf2-61b2-40b4-9f91-1907de359f12
+k	java:S106"+Replace this use of System.out by a logger.(ÚºœùÿÿÿÿJ$e0ed8aae-40c7-4795-99fc-11e65c94d3d6
+f	java:S106"+Replace this use of System.out by a logger.(²ØÉ°J$7b7ee263-ac37-47a2-b48f-9a02baea1b38
+f	java:S106"+Replace this use of System.out by a logger.(æù³J$69a86394-5812-4e25-ac5b-c4ab73710e0c
+k	java:S106/"+Replace this use of System.out by a logger.(Ä¨°úşÿÿÿÿJ$6fc1c4ab-f4a2-4e88-a5cf-1eee063114c6
+L	java:S1061"+Replace this use of System.out by a logger.(ÎãÔÃøÿÿÿÿ8¦†ùÃè1
